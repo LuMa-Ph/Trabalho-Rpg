@@ -12,7 +12,7 @@ programa {
 	
 	cadeia  classe = ""
 	inteiro hpinimigo = 100
-	inteiro velocidadeEscrita = 15
+	inteiro velocidadeEscrita = 0
 	inteiro ataqueinimigo
 	inteiro hp = 100
 	inteiro caminho
